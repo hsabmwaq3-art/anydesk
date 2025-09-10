@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage - خدمات سيارات الإمارات -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/index.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/index.html"/>
+  </url>
+  
+  <!-- About Us Page - من نحن -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/about.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/about.html"/>
+  </url>
+  
+  <!-- Services Page - خدماتنا -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/services.html"/>
+  </url>
+  
+  <!-- Areas Page - مناطق الخدمة -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/areas.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/areas.html"/>
+  </url>
+  
+  <!-- Contact Page - اتصل بنا -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/contact.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/contact.html"/>
+  </url>
+  
+  <!-- Service-specific pages (if created later) -->
+  
+  <!-- Dubai Winch Service - ونش دبي -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/winch-dubai.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/winch-dubai.html"/>
+  </url>
+  
+  <!-- Dubai Flatbed Service - سطحة دبي -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/flatbed-dubai.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/flatbed-dubai.html"/>
+  </url>
+  
+  <!-- Emergency Car Repair - إصلاح طوارئ -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/emergency-repair.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/emergency-repair.html"/>
+  </url>
+  
+  <!-- Battery Service - خدمة البطارية -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/battery-service.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/battery-service.html"/>
+  </url>
+  
+  <!-- Car Unlocking Service - فتح السيارات -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/car-unlocking.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/car-unlocking.html"/>
+  </url>
+  
+  <!-- Fuel Delivery Service - إمداد الوقود -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/fuel-delivery.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/fuel-delivery.html"/>
+  </url>
+  
+  <!-- Emirate-specific service pages -->
+  
+  <!-- Abu Dhabi Services - خدمات أبوظبي -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/abu-dhabi-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/abu-dhabi-services.html"/>
+  </url>
+  
+  <!-- Sharjah Services - خدمات الشارقة -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/sharjah-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/sharjah-services.html"/>
+  </url>
+  
+  <!-- Ajman Services - خدمات عجمان -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/ajman-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/ajman-services.html"/>
+  </url>
+  
+  <!-- Umm Al Quwain Services - خدمات أم القيوين -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/umm-al-quwain-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/umm-al-quwain-services.html"/>
+  </url>
+  
+  <!-- Ras Al Khaimah Services - خدمات رأس الخيمة -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/ras-al-khaimah-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/ras-al-khaimah-services.html"/>
+  </url>
+  
+  <!-- Fujairah Services - خدمات الفجيرة -->
+  <url>
+    <loc>https://hsabmwaq3-art.github.io/anydesk/fujairah-services.html</loc>
+    <lastmod>2025-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hsabmwaq3-art.github.io/anydesk/fujairah-services.html"/>
+  </url>
+
+</urlset>

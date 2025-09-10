@@ -1,0 +1,56 @@
+User-agent: *
+Allow: /
+
+# Allow all search engines to crawl the entire site
+Allow: /index.html
+Allow: /about.html
+Allow: /services.html
+Allow: /areas.html
+Allow: /contact.html
+Allow: /styles.css
+Allow: /script.js
+
+# Disallow admin or private directories (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Allow important files
+Allow: /sitemap.xml
+Allow: /favicon.ico
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://hsabmwaq3-art.github.io/anydesk/sitemap.xml
+
+# Special instructions for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots (optional)
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Comments for car service website
+# This robots.txt file is optimized for:
+# - خدمات سيارات الإمارات (UAE Car Services)
+# - ونش دبي (Dubai Winch Services)
+# - سطحة دبي (Dubai Flatbed Services)
+# - Emergency car services 24/7

@@ -1,0 +1,321 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://hsabmwaq3-art.github.io/anydesk/#organization",
+      "name": "خدمات سيارات الإمارات",
+      "alternateName": [
+        "UAE Car Services",
+        "Emirates Car Services",
+        "ونش دبي",
+        "سطحة دبي"
+      ],
+      "url": "https://hsabmwaq3-art.github.io/anydesk/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://hsabmwaq3-art.github.io/anydesk/images/logo.png",
+        "width": 300,
+        "height": 100
+      },
+      "description": "شركة رائدة في خدمات السيارات والطوارئ في دولة الإمارات العربية المتحدة. نقدم خدمات ونش دبي وسطحة دبي على مدار الساعة",
+      "foundingDate": "2010",
+      "slogan": "خدمة موثوقة على مدار الساعة",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+971-58-106-1588",
+        "contactType": "customer service",
+        "availableLanguage": ["Arabic", "English"],
+        "areaServed": "AE",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday", 
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      },
+      "sameAs": [
+        "https://wa.me/971581061588"
+      ]
+    },
+    {
+      "@type": "AutoRepair",
+      "@id": "https://hsabmwaq3-art.github.io/anydesk/#business",
+      "name": "خدمات سيارات الإمارات",
+      "image": [
+        "https://hsabmwaq3-art.github.io/anydesk/images/car-service-1.jpg",
+        "https://hsabmwaq3-art.github.io/anydesk/images/winch-dubai.jpg",
+        "https://hsabmwaq3-art.github.io/anydesk/images/flatbed-service.jpg"
+      ],
+      "description": "خدمات سيارات شاملة في دولة الإمارات العربية المتحدة - ونش دبي، سطحة دبي، خدمات طوارئ 24/7",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "AE",
+        "addressRegion": "Dubai",
+        "addressLocality": "Dubai"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.2048,
+        "longitude": 55.2708
+      },
+      "url": "https://hsabmwaq3-art.github.io/anydesk/",
+      "telephone": "+971581061588",
+      "priceRange": "$$",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday", 
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "serviceArea": [
+        {
+          "@type": "State",
+          "name": "Dubai"
+        },
+        {
+          "@type": "State", 
+          "name": "Abu Dhabi"
+        },
+        {
+          "@type": "State",
+          "name": "Sharjah"
+        },
+        {
+          "@type": "State",
+          "name": "Ajman"
+        },
+        {
+          "@type": "State",
+          "name": "Umm Al Quwain"
+        },
+        {
+          "@type": "State",
+          "name": "Ras Al Khaimah"
+        },
+        {
+          "@type": "State",
+          "name": "Fujairah"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Car Services Catalog",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "ونش دبي - Dubai Winch Service",
+              "description": "خدمة ونش سريعة وآمنة في دبي وجميع مناطق الإمارات",
+              "provider": {
+                "@id": "https://hsabmwaq3-art.github.io/anydesk/#organization"
+              },
+              "areaServed": "Dubai, UAE",
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 100"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service", 
+              "name": "سطحة دبي - Dubai Flatbed Service",
+              "description": "خدمة سطحة متخصصة لنقل السيارات المعطلة أو المتضررة",
+              "provider": {
+                "@id": "https://yourdomain.com/#organization"
+              },
+              "areaServed": "Dubai, UAE",
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 150"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "إصلاح طوارئ - Emergency Car Repair",
+              "description": "إصلاح فوري للأعطال البسيطة في موقع العطل",
+              "provider": {
+                "@id": "https://yourdomain.com/#organization"
+              },
+              "areaServed": "UAE",
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 80"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "خدمة البطارية - Battery Service",
+              "description": "تشغيل السيارة عند نفاد البطارية أو استبدال البطارية التالفة",
+              "provider": {
+                "@id": "https://yourdomain.com/#organization"
+              },
+              "areaServed": "UAE",
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 60"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "فتح السيارات - Car Unlocking",
+              "description": "فتح السيارات المقفلة بأمان دون إتلاف السيارة",
+              "provider": {
+                "@id": "https://yourdomain.com/#organization"
+              },
+              "areaServed": "UAE",
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 120"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "إمداد الوقود - Fuel Delivery",
+              "description": "توصيل الوقود إلى موقعك عند نفاد البنزين",
+              "provider": {
+                "@id": "https://yourdomain.com/#organization"
+              },
+              "areaServed": "UAE", 
+              "availableChannel": {
+                "@type": "ServiceChannel",
+                "servicePhone": "+971581061588",
+                "availableLanguage": ["Arabic", "English"]
+              }
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "AED",
+              "price": "Starting from 50"
+            }
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "500",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://hsabmwaq3-art.github.io/anydesk/#website",
+      "url": "https://hsabmwaq3-art.github.io/anydesk/",
+      "name": "خدمات سيارات الإمارات",
+      "description": "موقع خدمات السيارات الرائد في دولة الإمارات العربية المتحدة",
+      "publisher": {
+        "@id": "https://hsabmwaq3-art.github.io/anydesk/#organization"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://hsabmwaq3-art.github.io/anydesk/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "inLanguage": "ar-AE"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://hsabmwaq3-art.github.io/anydesk/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "الرئيسية",
+          "item": "https://hsabmwaq3-art.github.io/anydesk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "خدماتنا",
+          "item": "https://hsabmwaq3-art.github.io/anydesk/services"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "مناطق الخدمة",
+          "item": "https://hsabmwaq3-art.github.io/anydesk/areas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "من نحن",
+          "item": "https://hsabmwaq3-art.github.io/anydesk/about"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "اتصل بنا",
+          "item": "https://hsabmwaq3-art.github.io/anydesk/contact"
+        }
+      ]
+    }
+  ]
+}
